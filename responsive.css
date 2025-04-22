@@ -908,7 +908,9 @@
     .disk {
         border-bottom: 1px solid #bfbaba91;
     }
-
+    .support_pra{
+   margin-top: 25px;
+    }
     .contorl2 {
         width: 25px;
         height: 25px;
@@ -975,12 +977,6 @@
         font-weight: 400;
     }
 
-    /* .outline li{
-        border-bottom: 1px solid #fdedf1;
-    }
-    .outline11 li{
-        border-bottom: 1px solid #fdedf1;
-    } */
 }
 @media screen and (max-width: 400px) {
     .banner_section h2{
@@ -990,4 +986,5 @@
         width: 100%;
         margin: auto;
     }
+    
 }
